@@ -2,6 +2,9 @@
 Freenove Control Board V5
 ######################################################
 
+FNK0096
+**********************************
+
 .. toctree::
    :maxdepth: 1
    :caption: Important Information
